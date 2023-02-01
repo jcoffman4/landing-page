@@ -105,3 +105,25 @@ html,body {
     border-radius: 15px;
     padding: 75px;
 }
+
+/*Styling for quotation area */
+
+.quote-area {
+    background: rgb(233, 233, 233);
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+
+}
+
+.quote {
+    flex: 1;
+    font-size: 30px;
+}
+
+.author {
+    flex: 1;
+    font-size: 20px;
+}
